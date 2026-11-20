@@ -44,7 +44,7 @@ nav a {
     padding: 30px;
 }
 
-.product-container, .promotion-container {
+.products, .promotions{
     display: flex;
     justify-content: center;
     gap: 15px;

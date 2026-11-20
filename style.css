@@ -68,24 +68,16 @@ nav a {
     padding: 30px;
 }
 
-button {
+.home a {
     background-color: #B73525;
     color: white;
     padding: 10px;
-    border: none;
+    display: inline-block;
+    margin-top: 10px;
 }
 
 h2, h3 {
     color: #6B351E;
 }
 
-@media (max-width: 768px) {
-    header, .product-container, .promotion-container {
-        flex-direction: column;
-        align-items: center;
-    }
 
-    nav ul {
-        flex-wrap: wrap;
-    }
-}

@@ -95,6 +95,13 @@ footer {
 }
 
 footer p {
-    margin: 5px;
-    font-size: 14px;
+    margin: 8px;
+    font-size: 17px;
+}
+
+footer p:first-child {
+    color:#FFF8E7;
+    font-size:30px;
+    font-weight:bold;
+    margin-bottom: 20px;
 }

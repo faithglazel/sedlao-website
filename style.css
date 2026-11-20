@@ -1,6 +1,6 @@
 
 body {
-    font-family: Arial;
+    font-family: Poppins;
     background-color: #FFF8E7;
     color: #4A2818;
     margin: 0;
@@ -23,9 +23,10 @@ header {
 }
 
 nav ul {
+    font-family: Arial;
     list-style: none;
     display: flex;
-    gap: 15px;
+    gap: 20px;
 }
 
 nav a {
@@ -69,6 +70,7 @@ nav a {
 }
 
 .home a {
+    font-family: Arial;
     background-color: #B73525;
     color: white;
     padding: 10px;

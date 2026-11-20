@@ -87,4 +87,14 @@ h2, h3 {
     color: #6B351E;
 }
 
+footer {
+    background-color:#6B351E;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
 
+footer p {
+    margin: 5px;
+    font-size: 14px;
+}
